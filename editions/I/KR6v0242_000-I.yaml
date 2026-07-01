@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0242/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 朱永隆七十人等造像記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0047.xml
+    old_id: I01n0047
+hash: sha256:03e35b889a8b663a69fd9a4de1262bece36f4d1a2f168b9862646d96bf6c65bc
