@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0242_000.yaml, hash: 'sha256:03e35b889a8b663a69fd9a4de1262bece36f4d1a2f168b9862646d96bf6c65bc'}
-  - {seq: 1, filename: KR6v0242_001.yaml, hash: 'sha256:d8ba421a2b514a560265a2ce1a33fffa34c0a607f149df7e836145b2661d541b'}
+  - {seq: 1, filename: KR6v0242_001.yaml, hash: 'sha256:8906e75bb7f1f4ff178b0ee44d1fd20e15b56555f4ab2f0045368f7f7c74301d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0242_001.markers.yaml, hash: 'sha256:fa85f782badace4c67c6f4f44c660f387cec398e1bf5b35eb42bf5d1c17106c4'}
+  - {seq: 0, role: markers, filename: assets/KR6v0242_000.markers.yaml, hash: 'sha256:b22e9a9518dd8ea9ed10f246335758963c59c4d401556a63865c391a5b4344fc'}
+  - {seq: 1, role: markers, filename: assets/KR6v0242_001.markers.yaml, hash: 'sha256:feac8f35989ddc0f2684f3fbc25ad9777d56594c6a53474168b8f13a77be2be7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,7 +40,4 @@ table_of_contents:
   label: 朱永隆七十人等造像記
   type: juan
   level: 1
-hash: sha256:d306bd7b8db9e171a276f93006110c1a839b592deeaf7e06a666bf5d195bad00
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d525a8c1066e5b1ff8bf861f99bcc2f6e504cbc09f6434b6f7356398b4a01ce2
