@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0242/v1
 canonical_location: https://kanripo.org/bkk/KR6v0242/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 朱永隆七十人等造像記
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0242_000.yaml, hash: 'sha256:03e35b889a8b663a69fd9a4de1262bece36f4d1a2f168b9862646d96bf6c65bc'}
-  - {seq: 1, filename: KR6v0242_001.yaml, hash: 'sha256:8906e75bb7f1f4ff178b0ee44d1fd20e15b56555f4ab2f0045368f7f7c74301d'}
+  - {seq: 1, filename: KR6v0242_001.yaml, hash: 'sha256:9d166e6e701439d1fb25e70a32eb06b4fdb447330103c4e41d818e79abf2e71f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0242_000.markers.yaml, hash: 'sha256:b22e9a9518dd8ea9ed10f246335758963c59c4d401556a63865c391a5b4344fc'}
-  - {seq: 1, role: markers, filename: assets/KR6v0242_001.markers.yaml, hash: 'sha256:feac8f35989ddc0f2684f3fbc25ad9777d56594c6a53474168b8f13a77be2be7'}
+  - {seq: 1, role: markers, filename: assets/KR6v0242_001.markers.yaml, hash: 'sha256:412287454266da5ee4d619de4ea01f6784a634626d7ea0537005ef8e0e077fd0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -40,4 +40,7 @@ table_of_contents:
   label: 朱永隆七十人等造像記
   type: juan
   level: 1
-hash: sha256:d525a8c1066e5b1ff8bf861f99bcc2f6e504cbc09f6434b6f7356398b4a01ce2
+hash: sha256:546994cfcee2bc697ea9fba87482b884afc07e7418f2182dd7da5e7e39ce585c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
